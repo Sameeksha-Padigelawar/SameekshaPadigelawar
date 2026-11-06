@@ -159,7 +159,7 @@ Replace YOUR_USERNAME with your GitHub username
 
 
 
-
+<!--
 
 ## 📊 GitHub Stats
 
@@ -185,3 +185,5 @@ Replace YOUR_USERNAME with your GitHub username
 </div>
 
 <br>
+---
+-->
